@@ -1,2 +1,2 @@
-# RealEstate
-Real estate management app
+# Calculator
+A calculator app
